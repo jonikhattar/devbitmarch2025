@@ -1,0 +1,123 @@
+[
+  {
+    "attrs": {
+      "Brand": "LG",
+      "Connectivity Technology": "HDMI",
+      "Display Technology": "OLED",
+      "Included Components": "Remote, Power Cable",
+      "Model Name": "OLED C2 Series",
+      "Refresh Rate": "120 Hz",
+      "Resolution": "4K",
+      "Screen Size": "65 Inches",
+      "Special Feature": "AI ThinQ, Dolby Vision IQ, Dolby Atmos",
+      "Supported Internet Services": "Netflix, Hulu, Amazon Prime Video"
+    },
+    "name": "LG 65\" Class OLED C2 Series Alexa Built-in 4k Smart TV (OLED65C2PUA, 2022)",
+    "popularityRounded": 4,
+    "isGPTPrice": false,
+    "template": "home_theater",
+    "bayesianPopularityRounded": 5,
+    "isAccessories": false,
+    "categoryPopularityRounded": 4,
+    "asin": "B09RXN4QCJ",
+    "brand": "LG",
+    "category": "OLED TVs",
+    "categoryPageId": ["Electronics", "Televisions", "OLED TVs"],
+    "isPopularBrand": true,
+    "popularity": 4.5,
+    "price": 1799.99,
+    "objectID": "B09RXN4QCJ",
+    "bullets": [
+      "Self-lit OLED pixels create an infinite contrast and the deepest blacks for unparalleled picture quality.",
+      "a9 Gen5 AI Processor 4K automatically adjusts picture and sound quality.",
+      "Dolby Vision IQ and Dolby Atmos provide immersive viewing and listening experiences.",
+      "Perfect for gamers with NVIDIA G-SYNC and AMD FreeSync Premium support."
+    ],
+    "description": "The LG OLED C2 Series takes your viewing experience to a new level with stunning picture quality and immersive sound.",
+    "formats": {},
+    "image": "B09RXN4QCJ.jpg",
+    "stars": 4.5,
+    "bayesianPopularity": 4.8,
+    "hierarchicalCategories": {
+      "level0": "Electronics",
+      "level1": "Televisions",
+      "level2": "OLED TVs"
+    },
+    "categoryPopularity": 4.2,
+    "sales": 250000,
+    "ratingsCount": 4200,
+    "type": "product",
+    "brandScore": 4.5,
+    "hasFakePrice": false,
+    "info": {
+      "ASIN": "B09RXN4QCJ",
+      "Brand Name": "LG",
+      "Date First Available": "April 15, 2022",
+      "Item model number": "OLED65C2PUA",
+      "Special Features": "AI ThinQ, Dolby Vision IQ, Dolby Atmos"
+    },
+    "locale": "us",
+    "rating": 4.5
+  },
+  {
+    "attrs": {
+      "Brand": "Sony",
+      "Connectivity Technology": "HDMI",
+      "Display Technology": "LED",
+      "Included Components": "Remote, Power Cable, Stand",
+      "Model Name": "X90K Series",
+      "Refresh Rate": "120 Hz",
+      "Resolution": "4K",
+      "Screen Size": "55 Inches",
+      "Special Feature": "Full Array Local Dimming, Dolby Vision, Dolby Atmos",
+      "Supported Internet Services": "Netflix, Amazon Prime Video, Disney+"
+    },
+    "name": "Sony 55 Inch 4K Ultra HD TV X90K Series: BRAVIA XR Full Array LED Smart Google TV with Dolby Vision HDR and Exclusive Features for The Playstation 5-XBR55X90K-2022 Model",
+    "popularityRounded": 4,
+    "isGPTPrice": false,
+    "template": "home_theater",
+    "bayesianPopularityRounded": 4,
+    "isAccessories": false,
+    "categoryPopularityRounded": 4,
+    "asin": "B09V3TW888",
+    "brand": "Sony",
+    "category": "LED TVs",
+    "categoryPageId": ["Electronics", "Televisions", "LED TVs"],
+    "isPopularBrand": true,
+    "popularity": 4.2,
+    "price": 1299.99,
+    "objectID": "B09V3TW888",
+    "bullets": [
+      "Cognitive Processor XR understands how humans see and hear to deliver intense contrast with deep blacks, high peak brightness, and natural colors.",
+      "XR Triluminos Pro reproduces 30% wider color gamut with billions of accurate colors for natural and beautiful picture quality.",
+      "XR Motion Clarity minimizes blur in fast-moving scenes for smooth and clear action.",
+      "Google TV with Google Assistant provides a seamless entertainment experience."
+    ],
+    "description": "The Sony X90K Series delivers stunning 4K picture quality and immersive sound with advanced technologies for an unparalleled viewing experience.",
+    "formats": {},
+    "image": "B09V3TW888.jpg",
+    "stars": 4.3,
+    "bayesianPopularity": 4.1,
+    "hierarchicalCategories": {
+      "level0": "Electronics",
+      "level1": "Televisions",
+      "level2": "LED TVs"
+    },
+    "categoryPopularity": 4.0,
+    "sales": 180000,
+    "ratingsCount": 3100,
+    "type": "product",
+    "brandScore": 4.2,
+    "hasFakePrice": false,
+    "info": {
+      "ASIN": "B09V3TW888",
+      "Brand Name": "Sony",
+      "Date First Available": "May 12, 2022",
+      "Item model number": "XBR55X90K",
+      "Special Features": "Full Array Local Dimming, Dolby Vision, Dolby Atmos"
+    },
+    "locale": "us",
+    "rating": 4.3
+  }
+  
+]
